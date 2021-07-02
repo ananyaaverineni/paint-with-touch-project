@@ -1,3 +1,6 @@
+canvas=document.getElementById('myCanvas')
+ctx=canvas.getContext("2d");
+
 var width=screen.width;
 newwidth=screen.width-70;
 newheight=screen.height-300;
